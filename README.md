@@ -40,7 +40,7 @@ The use case in mind when building this was as follows: Processing hand written 
 ## Cleanup
 
 To delete the Stack:
-`cdk destroy`
+`cdk destroy -c email=true`
 
 ## Notes
 
